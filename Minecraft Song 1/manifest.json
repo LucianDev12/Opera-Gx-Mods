@@ -1,0 +1,25 @@
+{
+    "manifest_version": 3,
+    "name": "Minecraft Song",
+    "description": "It's pouring hard, u want to play minecraft in 2017.",
+    "version": "1.0",
+    "icons":
+    {
+        "512": "icon_512.png"
+    },
+    "developer":
+    {
+        "name": "Lucian"
+    },
+    "mod":
+    {
+        "schema_version": 1,
+        "payload":
+        {
+            "background_music":
+            [
+                "music/subwooferlullaby.mp3"
+            ]
+        }
+    }
+}
