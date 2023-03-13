@@ -1,0 +1,25 @@
+{
+    "manifest_version": 3,
+    "name": "Being Humen",
+    "description": "On last trip.",
+    "version": "1.0",
+    "icons":
+    {
+        "512": "icon_512.png"
+    },
+    "developer":
+    {
+        "name": "Steven"
+    },
+    "mod":
+    {
+        "schema_version": 1,
+        "payload":
+        {
+            "background_music":
+            [
+                "music/being.mp3"
+            ]
+        }
+    }
+}
